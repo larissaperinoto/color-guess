@@ -15,6 +15,10 @@ O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 Para executar o projeto faça o clone deste repositório usando o comando abaixo.
 
     git clone git@github.com:larissaperinoto/color-guess.git
+    
+Após o clone, instale as dependências do projeto com o comando abaixo.
+
+    npm install
 
 Para jogar clique [aqui](https://larissaperinoto.github.io/color-guess/).
 
